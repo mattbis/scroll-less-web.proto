@@ -1,0 +1,10 @@
+{
+  "authors":["Matthew Bishop"],
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "build:custom": "",
+    "build:default": "",
+    "build": ""
+  }
+}
