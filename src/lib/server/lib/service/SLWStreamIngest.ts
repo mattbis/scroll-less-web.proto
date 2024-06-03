@@ -1,0 +1,4 @@
+/*
+This service allows a html response to be auto paged
+keeping the same scripts and headers
+*/
