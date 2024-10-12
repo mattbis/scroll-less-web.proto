@@ -1,4 +1,6 @@
 {
+  "name": "SLW",
+  "description": "Framework to coerce or create a scroll-less web agnostic environment",
   "authors":["Matthew Bishop"],
   "dependencies": {},
   "devDependencies": {},
