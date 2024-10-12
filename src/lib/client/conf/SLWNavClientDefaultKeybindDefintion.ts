@@ -7,4 +7,3 @@ export const SLWNextPageKeyBindDefinition = ({
   code: '',
   desc: 'previous page'
 })
-
